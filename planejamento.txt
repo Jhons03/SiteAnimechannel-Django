@@ -1,0 +1,25 @@
+- Homepage
+-Fazer login e Criar Conta (Usuario e autenticacao)
+    -email
+    -username
+    -senha
+    -itens requeridos
+
+
+-animes
+    -thumb
+    -titulo
+    -descricao
+    -categoria
+    -quantidade de views
+    -data da criacao
+    -episodios
+        -videos (link do video)
+        -titulo
+
+
+-barra de pesquisas
+
+
+
+
